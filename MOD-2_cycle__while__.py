@@ -35,3 +35,8 @@ while num <= len(my_list):
     if my_list[num] < 0:
         break
 print(f'Список положительных чисел: \n{positive_list}')
+
+
+
+
+
