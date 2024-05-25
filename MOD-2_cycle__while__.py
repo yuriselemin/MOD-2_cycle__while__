@@ -60,7 +60,9 @@ while True:
     if continue_game != 'y':
         break  # Выходим из цикла, если пользователь не хочет продолжать
 
+print(f'Список любимых фруктов: \n{favorite_fruits}')
 print(f"Мои нелюбимые фрукты: {not_favorite_fruits}")
+
 
 
 
